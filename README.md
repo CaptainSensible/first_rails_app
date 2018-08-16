@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # first_rails_app
+# first_rails_app
